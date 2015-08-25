@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <scm>
+    <connection>scm:git:ssh://git@bitbucket.org/mnokka/hellotest.git</connection>
+    <developerConnection>scm:git:ssh://git@bitbucket.org/mnokka/hellotest.git</developerConnection>
+    <url>https://bitbucket.org/mnokka/hellotest</url>
+  </scm>
 </project>
