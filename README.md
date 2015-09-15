@@ -7,5 +7,4 @@ Simple Java test SW for Ambientia ALMDemo purposes - original implementation by 
 -info tbd
 
 * Execute via console
--info tbd
-
+-info tbd ..
