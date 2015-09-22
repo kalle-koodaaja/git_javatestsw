@@ -15,9 +15,9 @@
     </dependency>
   </dependencies>
   <scm>
-    <connection>scm:git:ssh://git@bitbucket.org/mnokka/hellotest.git</connection>
-    <developerConnection>scm:git:ssh://git@bitbucket.org/mnokka/hellotest.git</developerConnection>
-    <url>https://bitbucket.org/mnokka/hellotest</url>
+    <connection>scm:git:ssh://git@bitbucket.org/kalle_koodaaja/bucket_javatestsw.git</connection>
+    <developerConnection>scm:git:ssh://git@bitbucket.org/kalle_koodaaja/bucket_javatestsw.git</developerConnection>
+    <url>https://bitbucket.org/kalle_koodaaja/bucket_javatestsw</url>
     <tag>FIRST_TRIAL</tag>
   </scm>
   
