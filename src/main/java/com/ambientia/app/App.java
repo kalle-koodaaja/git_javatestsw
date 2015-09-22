@@ -12,7 +12,7 @@ public class App
     {
 		Date date = new Date();
         System.out.println( "Hello World! - Hyvvee paevee - Goden dag" );
-		System.out.println( ".--.------------date is----------------.-----." );
+		System.out.println( ".--.------------date is----.--------.-----." );
 		System.out.println(date.toString());
     }
 }
