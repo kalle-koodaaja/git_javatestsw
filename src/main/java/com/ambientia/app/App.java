@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args )
     {
 		Date date = new Date();
-        System.out.println( "Hello World! - Hyvvee paevee - Goden dag" );
+        System.out.println( "Hello World! - Hyvaa paivaa - Goden dag" );
 		System.out.println( ".--.--**---------date is----.--------.-----." );
 		System.out.println(date.toString());
     }
