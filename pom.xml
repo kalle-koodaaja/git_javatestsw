@@ -15,9 +15,9 @@
     </dependency>
   </dependencies>
   <scm>
-    <connection>scm:git:ssh://git@bitbucket.org/kalle_koodaaja/bucket_javatestsw.git</connection>
-    <developerConnection>scm:git:ssh://git@bitbucket.org/kalle_koodaaja/bucket_javatestsw.git</developerConnection>
-    <url>https://bitbucket.org/kalle_koodaaja/bucket_javatestsw</url>
+    <connection>scm:git:git://github.com/kalle-koodaaja/git_javatestsw.git</connection>
+    <developerConnection>scm:git:git@github.com:kalle-koodaaja/git_javatestsw.git</developerConnection>
+    <url>https://github.com/kalle-koodaaja/git_javatestsw</url>
     <tag>FIRST_TRIAL</tag>
   </scm>
   
